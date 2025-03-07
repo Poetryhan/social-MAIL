@@ -1,0 +1,15 @@
+trackId,initialFrame,finalFrame,Frame_nums,class
+P1,663,963,301,pedestrian
+P2,770,955,186,pedestrian
+P3,1236,1822,587,pedestrian
+P4,1504,1589,86,pedestrian
+P5,1868,2042,175,pedestrian
+P6,2080,2149,70,pedestrian
+P7,1972,2308,337,pedestrian
+P8,2601,2757,157,pedestrian
+P9,3052,3375,324,pedestrian
+P10,4120,4341,222,pedestrian
+P11,4389,4457,69,pedestrian
+P12,4413,4705,293,pedestrian
+P13,4481,4714,234,pedestrian
+P14,4543,4714,172,pedestrian

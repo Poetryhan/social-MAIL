@@ -1,0 +1,240 @@
+trackId,initialFrame,finalFrame,Frame_nums,width,length,class,CrossType,Signal_Violation_Behavior
+2,0,206,207,0.6351236203643769,1.5940401117198864,bicycle,StraightCross,No violation of traffic lights
+15,0,88,89,1.8679039753120292,4.855544525818824,car,StraightCross,No violation of traffic lights
+18,61,201,141,0.7641173279727562,1.7856957610650062,motorcycle,StraightCross,No violation of traffic lights
+23,219,450,232,0.6434087419435142,1.762878310895579,bicycle,StraightCross,red-light running
+28,382,535,154,0.6530742194671751,1.63880190776372,bicycle,StraightCross,No violation of traffic lights
+29,379,495,117,0.656872711705562,1.5640433164026122,motorcycle,StraightCross,No violation of traffic lights
+30,397,578,182,0.7809839642147011,1.7621463744358072,motorcycle,StraightCross,red-light running
+38,499,643,145,0.695863882613463,1.734412271495184,bicycle,StraightCross,No violation of traffic lights
+40,586,824,239,1.8300286078382468,4.561184118035105,car,StraightCross,No violation of traffic lights
+42,604,921,318,1.7709026583016756,4.608750791917989,car,StraightCross,No violation of traffic lights
+43,784,888,105,1.8105168145866106,4.566755899845686,car,StraightCross,No violation of traffic lights
+47,792,863,72,1.6500151136778551,3.9465245634904695,car,StraightCross,No violation of traffic lights
+48,835,947,113,1.8819711695836694,4.640251086513123,car,StraightCross,No violation of traffic lights
+49,844,934,91,1.8561750902137715,4.705994241112448,car,StraightCross,No violation of traffic lights
+50,1008,1097,90,1.8647883427982601,4.481799539346422,car,StraightCross,No violation of traffic lights
+51,867,941,75,1.8635133114452842,4.475728655850799,car,StraightCross,No violation of traffic lights
+54,938,1012,75,1.7683634395973016,4.2430348811092875,car,StraightCross,red-light running
+55,977,1099,123,0.7857056056798766,1.6666210110748712,motorcycle,StraightCross,No violation of traffic lights
+61,1092,1250,159,0.796956953258134,1.7164220207940553,motorcycle,StraightCross,red-light running
+62,1096,1213,118,0.7746875806890349,2.0104739664173996,motorcycle,StraightCross,red-light running
+63,1142,1519,378,1.7467452716404048,4.470176426802087,car,StraightCross,No violation of traffic lights
+66,1217,1260,44,1.7108253543643277,4.4058198642310105,car,StraightCross,No violation of traffic lights
+69,1327,1417,91,0.6822166252430506,1.785338562311995,bicycle,StraightCross,yellow-light running
+71,1367,1551,185,0.6436041806584223,1.6290642041615655,bicycle,StraightCross,No violation of traffic lights
+73,1458,1941,484,0.8070888085573813,1.7119826868292205,motorcycle,StraightCross,No violation of traffic lights
+74,1468,1767,300,1.8941718728392207,3.707902686770434,car,StraightCross,No violation of traffic lights
+76,1500,1592,93,1.8136038090055973,4.665953236339737,car,StraightCross,No violation of traffic lights
+77,1528,1619,92,1.8734228211995303,5.408565412990022,car,StraightCross,No violation of traffic lights
+78,1546,1788,243,0.7137801059504171,1.5952671419714552,motorcycle,StraightCross,yellow-light running
+79,1548,1641,94,0.8008436182404568,2.116465792757561,motorcycle,StraightCross,No violation of traffic lights
+80,1551,1790,240,0.6585258357629129,1.7075101557882701,bicycle,StraightCross,yellow-light running
+82,1602,1733,132,0.6758988547199924,1.5016633364091896,bicycle,StraightCross,red-light running
+83,1716,2010,295,0.90775898554089,1.683930982203014,motorcycle,StraightCross,red-light running
+85,1767,2061,295,0.8139052495683913,1.5429789389394302,motorcycle,StraightCross,red-light running
+86,1760,1842,83,0.7162493464001569,1.5617785374810638,motorcycle,StraightCross,No violation of traffic lights
+90,1789,2234,446,0.8851554116654102,1.5836113504336933,motorcycle,StraightCross,red-light running
+91,1793,1847,55,1.865730526485782,4.861177631702033,car,StraightCross,No violation of traffic lights
+92,1807,1953,147,0.697638102294539,1.5060873249896922,motorcycle,StraightCross,red-light running
+93,1811,1863,53,1.9405399611215175,4.961158526261177,car,StraightCross,No violation of traffic lights
+94,1827,1972,146,0.6452857024350483,1.6182087663267446,bicycle,StraightCross,No violation of traffic lights
+97,1841,2148,308,0.6171943926357355,1.5948804824605398,bicycle,StraightCross,red-light running
+99,1846,2263,418,1.7274293916133088,4.312594709759073,car,StraightCross,No violation of traffic lights
+101,1915,2190,276,0.6379292922518793,1.6712527188800876,bicycle,StraightCross,red-light running
+104,1982,2235,254,0.6727857178992558,1.7126179613982029,bicycle,StraightCross,No violation of traffic lights
+107,1994,2157,164,0.637643009874315,1.7293976170930274,motorcycle,StraightCross,yellow-light running
+108,2006,2232,227,0.6813038196185871,1.7112253018613646,bicycle,StraightCross,No violation of traffic lights
+109,2046,2291,246,0.6394620093413965,1.5014375733802428,bicycle,StraightCross,No violation of traffic lights
+115,2161,2258,98,1.6111535873356317,3.0750781091900645,car,StraightCross,No violation of traffic lights
+116,2262,2528,267,0.6948237188657518,1.834852095311921,bicycle,StraightCross,yellow-light running
+117,2275,2463,189,0.6823181109256002,1.5619138536317012,bicycle,StraightCross,No violation of traffic lights
+118,2440,2502,63,1.812736657398603,4.673413434774377,car,StraightCross,No violation of traffic lights
+120,2442,2938,497,1.836324360227132,4.90703707980915,car,StraightCross,No violation of traffic lights
+122,2476,2623,148,0.6825994572339651,1.6578793475483042,bicycle,StraightCross,No violation of traffic lights
+124,2527,2644,118,0.739419300514828,1.6401582298152695,bicycle,StraightCross,No violation of traffic lights
+125,2532,2645,114,0.6631703914426312,1.6411757566800864,bicycle,StraightCross,No violation of traffic lights
+127,2575,3095,521,0.7733928365820658,1.7061163037377207,bicycle,StraightCross,No violation of traffic lights
+130,2582,2750,169,0.7777856719654075,1.5204445428550173,motorcycle,StraightCross,red-light running
+131,2602,2977,376,1.912683631778593,4.9689568872975025,car,StraightCross,No violation of traffic lights
+133,2620,2728,109,0.7267508481022281,1.6089691299542315,motorcycle,StraightCross,red-light running
+136,2766,3075,310,0.6556332052676245,1.672439886914116,motorcycle,StraightCross,No violation of traffic lights
+138,2802,3091,290,0.7332036698610099,1.3818607066186264,bicycle,StraightCross,No violation of traffic lights
+139,2807,2886,80,1.946505509573876,5.087326408281129,car,StraightCross,No violation of traffic lights
+140,2848,3097,250,0.8205819130132197,1.5658491985879115,motorcycle,StraightCross,red-light running
+148,3050,3212,163,0.6452254897880761,1.6607167592799534,bicycle,StraightCross,red-light running
+149,3052,3169,118,0.8341252310869166,1.7567020995864893,motorcycle,StraightCross,No violation of traffic lights
+150,3360,3439,80,1.743961053434298,4.6058896188221,car,StraightCross,No violation of traffic lights
+151,3119,3214,96,0.7319889651854481,1.6153818125198611,motorcycle,StraightCross,No violation of traffic lights
+152,3185,3355,171,0.7873944459437877,1.6790856747723555,motorcycle,StraightCross,red-light running
+155,3213,3324,112,0.7898720183808662,2.0356547948595325,motorcycle,StraightCross,red-light running
+156,3237,3426,190,0.9387164264658626,1.7984985848282666,tricycle,StraightCross,red-light running
+157,3263,3465,203,0.6430088801619193,1.6241033225688561,bicycle,StraightCross,red-light running
+158,3261,3480,220,0.6918409218261691,1.8318307237877198,bicycle,StraightCross,red-light running
+164,3353,3451,99,0.8197628638278431,2.05246674783128,motorcycle,StraightCross,No violation of traffic lights
+166,3393,3477,85,0.7549955246249987,1.7991759533032983,motorcycle,StraightCross,No violation of traffic lights
+167,3406,3724,319,0.6069219045776171,1.4084307815816948,bicycle,StraightCross,red-light running
+168,3419,4023,605,0.8045552966315404,1.4822180298264143,motorcycle,StraightCross,No violation of traffic lights
+171,3438,3630,193,1.1368603978646339,2.2626631086982734,tricycle,StraightCross,red-light running
+172,3442,3669,228,0.6251271319184388,1.7125890408140438,bicycle,StraightCross,No violation of traffic lights
+181,3579,3874,296,0.7860343428287598,1.5405419751054064,motorcycle,StraightCross,red-light running
+182,3620,3706,87,1.932471142023458,5.160113942911413,car,StraightCross,No violation of traffic lights
+183,3617,4068,452,0.7330526129810863,1.4990638429770802,bicycle,StraightCross,No violation of traffic lights
+185,3673,3737,65,1.820915768772432,4.598832513810394,car,StraightCross,No violation of traffic lights
+186,3699,3936,238,0.636626522159613,1.5872603446073783,bicycle,StraightCross,red-light running
+187,3703,3760,58,0.7552137000867369,1.7854536821849236,motorcycle,StraightCross,No violation of traffic lights
+190,3830,3879,50,1.799099162618211,4.712144080211042,car,StraightCross,red-light running
+191,3860,4105,246,0.7094469280170503,1.6605665081437726,bicycle,StraightCross,No violation of traffic lights
+192,3882,4018,137,1.860760744734972,4.910906898471402,car,StraightCross,No violation of traffic lights
+194,4378,4452,75,1.8066354770841446,4.728761468916175,car,StraightCross,No violation of traffic lights
+195,3961,4064,104,1.838357952507453,4.431969120634016,car,StraightCross,No violation of traffic lights
+196,3975,4057,83,1.8727941945297948,4.906960690497732,car,StraightCross,No violation of traffic lights
+197,3970,4032,63,1.7617018936017388,4.671469355483469,car,StraightCross,No violation of traffic lights
+201,4057,4369,313,0.8312205263410337,1.5896822803535515,motorcycle,StraightCross,No violation of traffic lights
+202,4043,4169,127,0.9444575104928744,1.8492860683719412,motorcycle,StraightCross,red-light running
+204,4131,4304,174,0.724300210131686,1.6539852282609755,motorcycle,StraightCross,No violation of traffic lights
+205,4133,4217,85,1.9317156765347465,4.743060176699529,car,StraightCross,No violation of traffic lights
+206,4138,4244,107,0.6587771830177365,1.4707188907436273,motorcycle,StraightCross,No violation of traffic lights
+215,4331,4389,59,1.581453672419169,4.68774324117625,truck,StraightCross,red-light running
+216,4424,4486,63,1.7928728471597664,4.771710619092636,car,StraightCross,No violation of traffic lights
+217,4462,4535,74,1.8342162345658044,4.739149309605773,car,StraightCross,No violation of traffic lights
+218,4490,4568,79,1.8050737853956167,4.692947435992215,car,StraightCross,No violation of traffic lights
+225,4788,4932,145,0.6255184662978373,1.6491153672364882,bicycle,StraightCross,red-light running
+226,4810,4976,167,0.6900880123773968,1.5840043968278643,bicycle,StraightCross,No violation of traffic lights
+227,4824,4979,156,1.9666090256665938,4.9798756149552,car,StraightCross,No violation of traffic lights
+228,4843,4885,43,0.7643567610255553,1.7937071242680718,motorcycle,StraightCross,red-light running
+230,4863,5047,185,0.6948684061585567,1.5026951665452806,motorcycle,StraightCross,yellow-light running
+236,4930,5040,111,1.944957421935953,4.757794302508266,car,StraightCross,red-light running
+3,0,160,161,0.6169161404457943,1.5609834135524339,bicycle,LeftTurn,red-light running
+14,0,90,91,1.6472782880660297,3.868635094522195,car,LeftTurn,No violation of traffic lights
+17,0,109,110,1.9127007870990023,4.683346538889678,car,LeftTurn,No violation of traffic lights
+20,91,198,108,0.738963805308606,1.595936093196049,motorcycle,LeftTurn,No violation of traffic lights
+27,382,803,422,2.3229294012285258,6.462953367253298,truck,LeftTurn,No violation of traffic lights
+31,398,480,83,1.7328711433381607,4.394978980948117,car,LeftTurn,No violation of traffic lights
+33,447,560,114,1.5992746703609686,3.8358074271170834,car,LeftTurn,No violation of traffic lights
+36,509,838,330,1.8734800414378052,4.5680178258284085,car,LeftTurn,No violation of traffic lights
+44,710,917,208,0.7100987776882277,1.7361562876420598,bicycle,LeftTurn,No violation of traffic lights
+52,905,990,86,1.7895129309506455,4.583206707664548,car,LeftTurn,yellow-light running
+58,1042,1123,82,1.887428788989952,4.80477563195303,car,LeftTurn,No violation of traffic lights
+59,1056,1190,135,0.7547643111422186,1.7419874628752847,motorcycle,LeftTurn,red-light running
+65,1179,1301,123,0.7861215134800923,1.8516579743782657,motorcycle,LeftTurn,red-light running
+68,1283,1466,184,1.865743504192205,4.755218631447505,car,LeftTurn,No violation of traffic lights
+70,1358,1577,220,0.6326774259993218,1.5788943240203173,bicycle,LeftTurn,red-light running
+72,1438,1715,278,0.8289097654936363,1.738194111516497,motorcycle,LeftTurn,red-light running
+75,1492,1635,144,1.853405736403486,4.648394914790483,car,LeftTurn,No violation of traffic lights
+84,1742,1831,90,1.6241503436508795,3.678683265733765,car,LeftTurn,No violation of traffic lights
+87,1764,1850,87,1.7737489963187834,4.590646506507153,car,LeftTurn,No violation of traffic lights
+88,1773,1877,105,1.1666478426498164,2.9374598946227373,tricycle,LeftTurn,red-light running
+89,1777,1897,121,0.753754271319391,1.8674069416411436,motorcycle,LeftTurn,red-light running
+95,1830,2027,198,0.6799691720081119,1.8202920897479862,bicycle,LeftTurn,No violation of traffic lights
+98,1836,1900,65,1.8709221229177986,4.528334020973607,car,LeftTurn,No violation of traffic lights
+105,1983,2073,91,1.097862003390866,2.0583373311392563,motorcycle,LeftTurn,No violation of traffic lights
+110,2049,2154,106,1.1343798329050547,3.3975076263850124,tricycle,LeftTurn,No violation of traffic lights
+111,2064,2166,103,0.7707167454347719,1.5617214190511,motorcycle,LeftTurn,red-light running
+114,2116,2283,168,0.7107818992777629,1.7054386969407644,motorcycle,LeftTurn,red-light running
+121,2474,2566,93,1.7197134998106214,4.462406219706743,car,LeftTurn,No violation of traffic lights
+123,2514,2677,164,0.6976653752296689,1.6178466741033675,motorcycle,LeftTurn,No violation of traffic lights
+126,2571,2963,393,1.9497194083883476,5.1769872641124905,car,LeftTurn,No violation of traffic lights
+134,2689,2826,138,0.7463489101882108,1.7006715912572854,motorcycle,LeftTurn,No violation of traffic lights
+135,2743,2907,165,0.6022046253843126,1.4928965964609089,bicycle,LeftTurn,red-light running
+137,2780,2866,87,1.6666956050615018,4.276219234740501,car,LeftTurn,red-light running
+144,2953,3041,89,0.890187296310581,2.1913313117969047,tricycle,LeftTurn,red-light running
+145,2959,3139,181,0.6744775729503044,1.7641409279162663,bicycle,LeftTurn,red-light running
+146,2975,3126,152,0.6863856414007635,1.6413391120356458,bicycle,LeftTurn,No violation of traffic lights
+153,3199,3281,83,1.8490672376282327,4.642625190568945,car,LeftTurn,yellow-light running
+160,3272,3428,157,0.7346263473029414,1.7663392095348427,bicycle,LeftTurn,red-light running
+161,3294,3977,684,0.7941835684634511,1.463341415314436,motorcycle,LeftTurn,No violation of traffic lights
+162,3366,3512,147,2.6085024910262606,7.235121552597269,truck,LeftTurn,No violation of traffic lights
+163,3329,3975,647,1.7342251017794936,3.896032405598261,car,LeftTurn,No violation of traffic lights
+169,3428,3640,213,0.6654375720352178,1.6157333309615725,bicycle,LeftTurn,No violation of traffic lights
+170,3448,3995,548,1.9546416527556,5.117835554714293,car,LeftTurn,No violation of traffic lights
+173,3462,3542,81,0.8264961275962426,1.8970249160648043,motorcycle,LeftTurn,No violation of traffic lights
+177,3519,3706,188,0.7366203590960201,1.5933421825486178,motorcycle,LeftTurn,No violation of traffic lights
+188,3736,3819,84,1.9718053428983195,4.971622772644877,car,LeftTurn,No violation of traffic lights
+198,4004,4101,98,1.773895957167613,4.568336262351123,car,LeftTurn,No violation of traffic lights
+200,4018,4119,102,1.8420561912351512,4.626557700691593,car,LeftTurn,No violation of traffic lights
+203,4136,4502,367,0.6379666436795348,1.7834206340496552,bicycle,LeftTurn,yellow-light running
+208,4172,4282,111,0.8169149207169489,1.788815941563247,motorcycle,LeftTurn,red-light running
+210,4266,4477,212,0.6375836609603388,1.6069264399647545,bicycle,LeftTurn,No violation of traffic lights
+211,4283,4494,212,0.609031079296695,1.608178233460173,bicycle,LeftTurn,No violation of traffic lights
+213,4325,4510,186,0.640350133187561,1.594107253410651,bicycle,LeftTurn,No violation of traffic lights
+214,4327,4429,103,1.0803571843430562,2.0029765654876637,motorcycle,LeftTurn,No violation of traffic lights
+219,4520,4986,467,1.7785977664837958,4.7885851412618345,car,LeftTurn,yellow-light running
+222,4667,4984,318,1.7667686987711768,4.561402840376488,car,LeftTurn,No violation of traffic lights
+223,4715,4894,180,0.7371612461593525,1.7098593740649217,bicycle,LeftTurn,No violation of traffic lights
+224,4764,4832,69,1.8387624525431,4.69602588891057,car,LeftTurn,red-light running
+8,0,38,39,0.9105890286248922,1.7192272456589817,motorcycle,RightTurn,No violation of traffic lights
+19,81,155,75,1.755164070861028,4.540678940719095,car,RightTurn,No violation of traffic lights
+21,119,203,85,1.7391270934789782,4.501155657628171,car,RightTurn,No violation of traffic lights
+24,256,435,180,0.625181692046843,1.6899123724718508,bicycle,RightTurn,No violation of traffic lights
+25,255,439,185,0.6313223507597048,1.6405084308606603,bicycle,RightTurn,No violation of traffic lights
+26,363,479,117,1.820526958090614,4.818906110284452,car,RightTurn,No violation of traffic lights
+32,447,559,113,1.9066465175552203,4.927320967852248,car,RightTurn,No violation of traffic lights
+34,454,524,71,0.8297472496036297,2.144352150256261,motorcycle,RightTurn,No violation of traffic lights
+35,464,544,81,0.8131961382850719,1.5603628731165329,motorcycle,RightTurn,No violation of traffic lights
+37,484,561,78,0.8284115696508575,1.9201652638868174,motorcycle,RightTurn,No violation of traffic lights
+39,506,655,150,1.8005124315928835,4.68142627415289,car,RightTurn,No violation of traffic lights
+41,587,676,90,0.8812240721545626,1.6594032349104655,motorcycle,RightTurn,No violation of traffic lights
+45,726,807,82,1.7636700905431084,4.399594962881002,car,RightTurn,No violation of traffic lights
+46,734,856,123,1.924858110397242,5.122528570574953,car,RightTurn,No violation of traffic lights
+53,929,989,61,1.6951766357228752,3.6983087366600254,car,RightTurn,No violation of traffic lights
+56,992,1078,87,0.9126774239486809,1.7393117338346566,motorcycle,RightTurn,No violation of traffic lights
+57,1012,1076,65,1.8663734916818249,4.87712349240703,car,RightTurn,No violation of traffic lights
+64,1144,1247,104,0.6729420791414321,1.675124709473201,motorcycle,RightTurn,No violation of traffic lights
+67,1270,1349,80,1.662930385332718,4.213641432898794,car,RightTurn,No violation of traffic lights
+81,1561,1645,85,1.9657607464500335,4.95973526552122,car,RightTurn,No violation of traffic lights
+96,1840,1940,101,0.7860507027358528,2.0928723091526753,motorcycle,RightTurn,No violation of traffic lights
+100,1870,1944,75,1.5870096819175883,4.136698033490299,car,RightTurn,No violation of traffic lights
+102,1934,2068,135,0.6738816893330637,1.5927924248430647,bicycle,RightTurn,No violation of traffic lights
+103,1973,2107,135,1.7680710863146232,4.63664812645894,car,RightTurn,No violation of traffic lights
+106,1984,2073,90,0.7536217481730132,1.7509755851372881,motorcycle,RightTurn,No violation of traffic lights
+112,2086,2203,118,1.9131749575586932,4.711471822325563,car,RightTurn,No violation of traffic lights
+113,2106,2191,86,1.802381553153261,4.735832207750537,car,RightTurn,No violation of traffic lights
+128,2565,2626,62,1.826147879603797,4.372183636958028,car,RightTurn,No violation of traffic lights
+129,2575,2715,141,0.7863811131881016,1.868954840360415,motorcycle,RightTurn,No violation of traffic lights
+132,2605,2683,79,1.9018872113891483,4.767329393589399,car,RightTurn,No violation of traffic lights
+141,2878,2973,96,1.729193470095346,4.358052828871375,car,RightTurn,No violation of traffic lights
+142,2896,2992,97,1.7919944798684093,4.5918648450701145,car,RightTurn,No violation of traffic lights
+143,2910,3064,155,0.6253824499617436,1.5902362718591412,bicycle,RightTurn,No violation of traffic lights
+147,3039,3137,99,0.6497142975928522,1.665341282199,bicycle,RightTurn,No violation of traffic lights
+154,3197,3311,115,0.704702491400635,1.5884381474559144,motorcycle,RightTurn,No violation of traffic lights
+159,3267,3342,76,1.3371177686496525,2.563587968137773,tricycle,RightTurn,No violation of traffic lights
+165,3378,3560,183,0.6349139037068523,1.7258374422370524,bicycle,RightTurn,No violation of traffic lights
+174,3487,3608,122,0.7575738569416022,1.5817882540986115,motorcycle,RightTurn,No violation of traffic lights
+175,3495,3586,92,0.7829648453163585,1.6648254991369857,motorcycle,RightTurn,No violation of traffic lights
+176,3508,3638,131,1.3308563879336717,2.530710689946822,tricycle,RightTurn,No violation of traffic lights
+178,3569,3694,126,1.769065223198237,4.5321769111589285,car,RightTurn,No violation of traffic lights
+179,3570,3650,81,0.748350393200841,1.6620368313096447,motorcycle,RightTurn,No violation of traffic lights
+180,3574,3669,96,1.8834808770853233,4.913151043763938,car,RightTurn,No violation of traffic lights
+184,3632,3749,118,0.7030612772938076,1.7411715612302696,bicycle,RightTurn,No violation of traffic lights
+189,3797,3887,91,0.6232074249004345,1.335827923343905,motorcycle,RightTurn,No violation of traffic lights
+193,3929,4060,132,1.7351650884937355,4.604943130491612,car,RightTurn,No violation of traffic lights
+199,3999,4073,75,1.8732579662674085,4.932105013837268,car,RightTurn,No violation of traffic lights
+207,4160,4238,79,1.9232010519979195,4.79245985655078,car,RightTurn,No violation of traffic lights
+209,4196,4326,131,0.7241811105767992,1.5347366910830507,motorcycle,RightTurn,No violation of traffic lights
+212,4305,4406,102,0.7323441389036803,1.7845094258817595,motorcycle,RightTurn,No violation of traffic lights
+220,4609,4686,78,1.74919266026808,4.547142426016324,car,RightTurn,No violation of traffic lights
+221,4655,4724,70,1.8608188015688438,4.77052684585052,car,RightTurn,No violation of traffic lights
+229,4859,4948,90,1.828276467765504,4.681963058476069,car,RightTurn,No violation of traffic lights
+232,4897,5000,104,1.8775736355587398,4.764153657185275,car,RightTurn,No violation of traffic lights
+235,4929,5036,108,0.6866973976244017,1.6574065388295318,motorcycle,RightTurn,No violation of traffic lights
+1,0,46,47,0.6566469991219543,1.6617477080212533,bicycle,Others,No violation of traffic lights
+4,0,5047,5048,2.4067800007018567,11.763280353723784,bus,Others,No violation of traffic lights
+5,0,5047,5048,0.7922245146532864,2.0008076613748247,motorcycle,Others,No violation of traffic lights
+6,0,150,151,0.6677952397638187,1.6392445849013153,bicycle,Others,No violation of traffic lights
+7,0,53,54,0.7340711087010755,1.5597093510752287,bicycle,Others,No violation of traffic lights
+9,0,138,139,0.7933989467060757,1.8367490248675584,motorcycle,Others,No violation of traffic lights
+10,0,5047,5048,1.411236783027898,2.7167705276577228,tricycle,Others,No violation of traffic lights
+11,0,5047,5048,1.759517887764105,4.756125579782418,car,Others,No violation of traffic lights
+12,0,12,13,1.8018956790903973,4.5049363627229395,car,Others,No violation of traffic lights
+13,0,5047,5048,1.702804188381269,4.642133198137518,car,Others,No violation of traffic lights
+16,0,5047,5048,1.7389898034085973,4.417549444640383,car,Others,No violation of traffic lights
+22,155,460,306,0.8370996909820888,2.2093832445290147,tricycle,Others,No violation of traffic lights
+60,1160,1338,179,0.6712501512417564,1.7312370710195766,bicycle,Others,No violation of traffic lights
+119,2357,2385,29,1.9400781480219043,4.633079977011906,car,Others,No violation of traffic lights
+231,4870,5047,178,0.5963106736453895,1.6005514487983674,bicycle,Others,No violation of traffic lights
+233,4905,5047,143,0.58411004534707,1.594009307909601,bicycle,Others,No violation of traffic lights
+234,4924,5047,124,0.7743164353763354,1.7005642252259496,motorcycle,Others,No violation of traffic lights
+237,4927,5047,121,0.6628609662452895,1.6403296380038008,bicycle,Others,No violation of traffic lights
+238,4968,5047,80,0.6827002522447252,1.6532026405332578,motorcycle,Others,No violation of traffic lights
+239,4974,5047,74,0.5789845643587042,1.5966368340895893,bicycle,Others,No violation of traffic lights

@@ -1,0 +1,2 @@
+RecordingID,City,Record weekday,Record time period,Weather,Raw frame rate,Record duration,Tps+AF8-num,car,truck,bus,bicycle,motorcycle,tricycle,pedestrian
+6,Tianjin,Thursday,8:30-9:00,overcast,29.97,1168.26s,577,215,8,3,109,120,22,100
