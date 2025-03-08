@@ -53,7 +53,7 @@ def train(logdir, env_id, num_timesteps, lr, timesteps_per_batch, seed, num_cpu,
 @click.option('--logdir', type=click.STRING, default='multi-agent-trj/logger')
 @click.option('--env', type=click.STRING, default='trj_intersection_4')
 @click.option('--expert_path', type=click.STRING,
-              default=r'\Data\sinD_nvnxuguan_9jiaohu_social_dayu1.pkl')
+              default=r'\Data\sinD.pkl')
 @click.option('--seed', type=click.INT, default=13)
 @click.option('--traj_limitation', type=click.INT, default=90)
 @click.option('--ret_threshold', type=click.FLOAT, default=-10)
