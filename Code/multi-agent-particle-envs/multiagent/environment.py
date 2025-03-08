@@ -467,7 +467,7 @@ class MultiAgentEnv(gym.Env):
 
     # set env action for a particular agent
     def _set_action(self, action, agent, action_space, cishu):
-        path = r'\Data\sinD_nvnxuguan_9jiaohu_social_dayu1_v2.pkl'  # path='/root/……/aus_openface.pkl'
+        path = r'\Data\sinD.pkl'  # path='/root/……/aus_openface.pkl'
         f_expert = open(path, 'rb')
         all_expert_trj_ = pickle.load(f_expert)
 
