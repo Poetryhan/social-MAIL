@@ -51,9 +51,9 @@ class Scenario(BaseScenario):
         return world
 
     def reset_world(self, world, scenario_test, training_label):
-        init_pointss = np.load(r'\Data\init_sinD_nvnxuguan_9jiaohu_social_dayu1_v2.npy', allow_pickle=True)
-        path_expert = r'\Data\sinD_nvnxuguan_9jiaohu_social_dayu1_v2.pkl'  # path='/root/……/aus_openface.pkl'   pkl
-        path_landmark = r'\Data\sinD_nvnxuguan_9jiaohu_landmarks_buxianshi.pkl'
+        init_pointss = np.load(r'\Data\init_sinD.npy', allow_pickle=True)
+        path_expert = r'\Data\sinD.pkl'  # path='/root/……/aus_openface.pkl'   pkl
+        path_landmark = r'\Data\landmarks.pkl'
 
         f_expert = open(path_expert, 'rb')
         all_expert_trj = pickle.load(f_expert)
